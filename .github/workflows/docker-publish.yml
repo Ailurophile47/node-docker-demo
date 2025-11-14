@@ -18,4 +18,4 @@ jobs:
       id: meta        
       uses: docker/metadata-action@98669ae865ea3cffbcbaa878cf57c20bbf1c6c38        
       with:          
-        images: ailurophile47/nodejs-app-lab 
+        images: ailurophile47/nodejs-app-lab #dockerusername/image
